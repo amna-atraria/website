@@ -1,0 +1,42 @@
+
+
+
+  .icon img{
+    width: 30px;
+
+  }
+  img{
+    width: 50px;
+  }
+  .navbar-nav{
+    margin-left: auto;
+  }
+  .icon a{
+   margin-right: 10px;
+
+  }
+   .container-fluid{
+    background-image: url(Images/light\ red\ color.png);
+   }
+   .nav-item{
+
+    font-weight: bold;
+    color: weight;
+
+
+   }
+   .nav-link:hover{
+    color: black;
+    text-decoration: underline;
+   }
+
+
+   .nav-link{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+   }
+
+   .navbar-nav .nav-link.active {
+    color: blueviolet;
+   }
